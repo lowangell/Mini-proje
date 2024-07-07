@@ -1,0 +1,14 @@
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\bin\Debug\net8.0\Adres Defteri.exe
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\bin\Debug\net8.0\Adres Defteri.deps.json
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\bin\Debug\net8.0\Adres Defteri.runtimeconfig.json
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\bin\Debug\net8.0\Adres Defteri.dll
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\bin\Debug\net8.0\Adres Defteri.pdb
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\obj\Debug\net8.0\Adres Defteri.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\obj\Debug\net8.0\Adres Defteri.AssemblyInfoInputs.cache
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\obj\Debug\net8.0\Adres Defteri.AssemblyInfo.cs
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\obj\Debug\net8.0\Adres Defteri.csproj.CoreCompileInputs.cache
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\obj\Debug\net8.0\Adres Defteri.dll
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\obj\Debug\net8.0\refint\Adres Defteri.dll
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\obj\Debug\net8.0\Adres Defteri.pdb
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\obj\Debug\net8.0\Adres Defteri.genruntimeconfig.cache
+D:\C#OrnekUygulama\C#OrnekUygulama\AdresDefteri\Adres Defteri\obj\Debug\net8.0\ref\Adres Defteri.dll
